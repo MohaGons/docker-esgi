@@ -1,0 +1,47 @@
+<SessionReport version="2" startTime="0" startTimestamp="Jan 02, 2023 16:32:33.084" key="/library/metadata/1" session="z9kyt6cyw6du4lh6x7bj3oyb" transcode="fqox5zmbmu6o9sjqfmgclitg">
+<User id="1" thumb="https://plex.tv/users/0a4035b05ae3dabe/avatar?c=1672580373" title="gonssaibmohammad" />
+<Player address="172.21.0.1" device="OSX" machineIdentifier="obgalvccku7syit19dlpmnmk" model="bundled" platform="Chrome" platformVersion="108.0" product="Plex Web" remotePublicAddress="94.228.190.38" title="Chrome" version="4.87.2" local="1" relayed="0" secure="0" userID="1" />
+<Variants>
+<Variant id="01acc60a-f3f0-4f65-96c7-c024dffe4626" targetBitrate="985" context="streaming" sourceVideoCodec="h264" videoDecision="transcode" protocol="dash" container="mp4" videoCodec="h264" transcodeHwRequested="0" transcodeHwFullPipeline="0">
+<Media id="1" videoProfile="high" bitrate="938" container="mp4" duration="30000" height="404" optimizedForStreaming="1" protocol="dash" videoCodec="h264" videoFrameRate="PAL" videoResolution="SD" width="720" selected="1">
+<Part id="1" videoProfile="high" bitrate="938" container="mp4" duration="30000" height="404" optimizedForStreaming="1" protocol="dash" width="720" decision="transcode" selected="1">
+<Stream bitrate="938" codec="h264" default="1" displayTitle="1080p (H.264)" extendedDisplayTitle="1080p (H.264)" frameRate="25" height="404" id="1" language="English" languageCode="eng" languageTag="en" selected="1" streamType="1" width="720" decision="transcode" location="segments-video" />
+</Part>
+</Media>
+</Variant>
+</Variants>
+<SegmentList>
+<Segment duration="8000" startOffset="0" endOffset="8000">
+<File name="chunk-stream0-00001.m4s" type="video">
+<FileVariant size="761264" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+</File>
+<Timelines>
+<Transcode startTime="417" endTime="2777" complete="1" fileType="video" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+<Download startTime="2857" endTime="2879" complete="1" fileType="video" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+</Timelines>
+</Segment>
+<Segment duration="8000" startOffset="8000" endOffset="16000">
+<File name="chunk-stream0-00002.m4s" type="video">
+<FileVariant size="662809" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+</File>
+<Timelines>
+<Download startTime="2896" endTime="4909" complete="1" fileType="video" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626">
+<Pause type="segmentWait" startTime="2896" endTime="4898" />
+</Download>
+<Transcode startTime="2777" endTime="4891" complete="1" fileType="video" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+</Timelines>
+</Segment>
+<Segment duration="0" startOffset="-1" endOffset="-1">
+<Timelines>
+<Download startTime="4920" fileType="video" variant="01acc60a-f3f0-4f65-96c7-c024dffe4626" />
+</Timelines>
+</Segment>
+</SegmentList>
+<PlaybackReports>
+<Playback startTime="3519" endTime="4996" state="buffering" progress="0" />
+<Playback startTime="4996" endTime="6379" state="playing" progress="0" />
+<Playback startTime="6379" endTime="6379" state="stopped" progress="1000" />
+</PlaybackReports>
+<StateReports />
+<StateReports />
+</SessionReport>

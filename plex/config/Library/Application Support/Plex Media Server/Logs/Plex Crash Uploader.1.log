@@ -1,0 +1,4 @@
+Jan 02, 2023 16:55:08.556 [0xffff92a0bad0] INFO - Crash Uploader - Platform: Linux ServerUUID: 0f00f9916b10d7dcfc749828c4348900652222fa UserId: mohagonssaib@gmail.com Version: 1.30.0.6486-629d58034
+Jan 02, 2023 16:55:08.560 [0xffff92a0bad0] DEBUG - Pre-processed minidump directory: /config/Library/Application Support/Plex Media Server/Crash Reports/1.30.0.6486-629d58034
+Jan 02, 2023 16:55:08.562 [0xffff92a0bad0] DEBUG - Post-processed minidump directory: /tmp
+Jan 02, 2023 16:55:08.509 [0xffff94af1890] ERROR - Too many crashdumps detected / retries disallowed!

@@ -1,0 +1,132 @@
+Jan 02, 2023 14:39:06.271 [0xffff910f89f8] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Jan 02, 2023 14:39:06.272 [0xffff910f89f8] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+Jan 02, 2023 14:39:06.272 [0xffff910f89f8] INFO - Processor: 4-core AArch64
+Jan 02, 2023 14:39:06.272 [0xffff910f89f8] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 1
+Jan 02, 2023 14:39:06.266 [0xffff94b8a038] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 14:39:06.334 [0xffff94b8a038] DEBUG - Analyzing media parts for item 1 (210329 06B Bali 013): 1
+Jan 02, 2023 14:39:06.334 [0xffff94b8a038] DEBUG - [ID 1] Media part analysis: /movies/210329_06B_Bali_1080p_013.mp4
+Jan 02, 2023 14:39:06.339 [0xffff94b8a038] DEBUG - [MI] Opening input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.339 [0xffff94b8a038] DEBUG - [FFMPEG] - Opening '/movies/210329_06B_Bali_1080p_013.mp4' for reading
+Jan 02, 2023 14:39:06.339 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1000, duration: 750000
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Offset DTS by 1000 to make first pts zero.
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jan 02, 2023 14:39:06.340 [0xffff94b8a038] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 19915 bytes read:32768 seeks:0 nb_streams:1
+Jan 02, 2023 14:39:06.341 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.341 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.342 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.342 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.343 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.343 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.343 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.343 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.343 [0xffff94b8a038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:06.345 [0xffff94b8a038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:06.390 [0xffff94b8a038] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 14:39:06.392 [0xffff94b8a038] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 664454 bytes read:664454 seeks:0 frames:1
+Jan 02, 2023 14:39:06.392 [0xffff94b8a038] DEBUG - [MI] Opening "/movies/210329_06B_Bali_1080p_013.mp4" for MP4 atom parsing
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 24 at offset 0
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Found moov atom of size 8779 at offset 24
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Found trak atom of size 8605 at offset 140
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Found mdia atom of size 8469 at offset 276
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Found minf atom of size 8365 at offset 380
+Jan 02, 2023 14:39:06.393 [0xffff94b8a038] DEBUG - Mp4AtomParser: Found stbl atom of size 8250 at offset 495
+Jan 02, 2023 14:39:06.403 [0xffff94b8a038] DEBUG - [MI]  * 5f12a8bcb2c9125eedc657644168d59c62a917b4 [mp4 h264/] Duration: 30000ms, 1920x1080 (1.777778) 25.000fps, bitrate=59933kbps, audio channels=0, optimizedForStreaming=1 ("/movies/210329_06B_Bali_1080p_013.mp4")
+Jan 02, 2023 14:39:06.403 [0xffff94b8a038] DEBUG - [MI] Chapters had generic titles, clearing.
+Jan 02, 2023 14:39:06.403 [0xffff94b8a038] DEBUG - [MI] Closing input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.404 [0xffff94b8a038] DEBUG - Committing media stream changes for part 1
+Jan 02, 2023 14:39:06.409 [0xffff94b8a038] DEBUG - Updating media item 1, size=224749240, metadata_item_id=1
+Jan 02, 2023 14:39:06.410 [0xffff94b8a038] DEBUG - Updating part with ID=1 [/movies/210329_06B_Bali_1080p_013.mp4]
+Jan 02, 2023 14:39:06.419 [0xffff905169f8] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Jan 02, 2023 14:39:06.421 [0xffff904f39f8] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Jan 02, 2023 14:39:06.421 [0xffff905169f8] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+Jan 02, 2023 14:39:06.422 [0xffff904f39f8] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+Jan 02, 2023 14:39:06.427 [0xffff94b8a038] DEBUG - [MI] Opening input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.427 [0xffff94b8a038] DEBUG - [FFMPEG] - Opening '/movies/210329_06B_Bali_1080p_013.mp4' for reading
+Jan 02, 2023 14:39:06.427 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1000, duration: 750000
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Offset DTS by 1000 to make first pts zero.
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jan 02, 2023 14:39:06.428 [0xffff94b8a038] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 19915 bytes read:32768 seeks:0 nb_streams:1
+Jan 02, 2023 14:39:06.429 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.429 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.430 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.430 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.431 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.431 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.431 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.431 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.431 [0xffff94b8a038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:06.433 [0xffff94b8a038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:06.478 [0xffff94b8a038] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 14:39:06.479 [0xffff94b8a038] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 664454 bytes read:664454 seeks:0 frames:1
+Jan 02, 2023 14:39:06.479 [0xffff94b8a038] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/5/f12a8bcb2c9125eedc657644168d59c62a917b4.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Jan 02, 2023 14:39:06.480 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.480 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.487 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.487 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.488 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.488 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.488 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.488 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.488 [0xffff94b8a038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:06.491 [0xffff94b8a038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:06.542 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.542 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Jan 02, 2023 14:39:06.575 [0xffff94b8a038] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Jan 02, 2023 14:39:06.606 [0xffff94b8a038] DEBUG - Loaded memory image of size 1920x1080.
+Jan 02, 2023 14:39:06.631 [0xffff94b8a038] DEBUG - [MI] Closing input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.634 [0xffff94b8a038] DEBUG - [MI] Opening input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.634 [0xffff94b8a038] DEBUG - [FFMPEG] - Opening '/movies/210329_06B_Bali_1080p_013.mp4' for reading
+Jan 02, 2023 14:39:06.634 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1000, duration: 750000
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Offset DTS by 1000 to make first pts zero.
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 19915 bytes read:32768 seeks:0 nb_streams:1
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.635 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.636 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.637 [0xffff94b8a038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:06.639 [0xffff94b8a038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:06.686 [0xffff94b8a038] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 14:39:06.687 [0xffff94b8a038] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 664454 bytes read:664454 seeks:0 frames:1
+Jan 02, 2023 14:39:06.687 [0xffff94b8a038] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/5/f12a8bcb2c9125eedc657644168d59c62a917b4.bundle/Contents/Art/art1.jpg (50.0%, 1280x720).
+Jan 02, 2023 14:39:06.688 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.688 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.689 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.689 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.690 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.690 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.690 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.691 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:06.691 [0xffff94b8a038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:06.694 [0xffff94b8a038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:06.742 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:06.742 [0xffff94b8a038] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Jan 02, 2023 14:39:06.777 [0xffff94b8a038] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Jan 02, 2023 14:39:06.812 [0xffff94b8a038] DEBUG - Loaded memory image of size 1920x1080.
+Jan 02, 2023 14:39:06.858 [0xffff94b8a038] DEBUG - [MI] Closing input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:06.859 [0xffff94b8a038] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 14:39:06.859 [0xffff94b8a038] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 14:39:06.860 [0xffff904f39f8] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Jan 02, 2023 14:39:06.860 [0xffff94b8a038] DEBUG - Updating metadata item (save) (210329 06B Bali 013) with ID 1
+Jan 02, 2023 14:39:06.882 [0xffff905169f8] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Jan 02, 2023 14:39:06.883 [0xffff904f39f8] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=1&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Jan 02, 2023 14:39:06.884 [0xffff94b8a038] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 14:39:06.884 [0xffff94b8a038] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jan 02, 2023 14:39:06.885 [0xffff904f39f8] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Jan 02, 2023 14:39:06.885 [0xffff94b8a038] DEBUG - Updating metadata item (save) (210329 06B Bali 013) with ID 1

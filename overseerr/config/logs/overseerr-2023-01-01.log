@@ -1,0 +1,172 @@
+2023-01-01T14:46:59.528Z [info]: Commit Tag: v1.31.0 
+2023-01-01T14:47:00.476Z [info]: Starting Overseerr version 1.31.0 
+2023-01-01T14:47:04.702Z [info][Notifications]: Registered notification agents 
+2023-01-01T14:47:04.768Z [info][Jobs]: Scheduled jobs loaded 
+2023-01-01T14:47:05.240Z [info][Server]: Server ready on port 5055 
+2023-01-01T14:48:00.196Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:49:00.037Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:50:00.038Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:50:00.053Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T14:50:00.078Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T14:50:00.079Z [info][Plex Scan]: Scan starting {"sessionId":"f5a439da-2753-444e-a8f1-a58960825680"}
+2023-01-01T14:50:00.085Z [warn][Plex Scan]: No admin configured. Plex scan skipped. 
+2023-01-01T14:51:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:52:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:53:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:54:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:55:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:55:00.040Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T14:55:00.041Z [info][Plex Scan]: Scan starting {"sessionId":"2aaf6e3c-7545-46a4-be41-13b27ebbf10a"}
+2023-01-01T14:55:00.042Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T14:55:00.062Z [info][Plex Scan]: Beginning to process recently added for library: Films {}
+2023-01-01T14:55:00.076Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {}
+2023-01-01T14:55:00.082Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T14:56:00.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:57:00.042Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:57:05.858Z [error][Sonarr]: [Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.4:8989 
+2023-01-01T14:57:12.726Z [error][Sonarr]: [Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.3:8989 
+2023-01-01T14:57:17.610Z [error][Sonarr]: [Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.7:8989 
+2023-01-01T14:58:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T14:59:00.032Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:00:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:00:00.064Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:00:00.066Z [info][Plex Scan]: Scan starting {"sessionId":"d0fe4033-63d0-4dd4-be71-317f249ab706"}
+2023-01-01T15:00:00.067Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:00:00.081Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:00:00.100Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672584900074}
+2023-01-01T15:00:00.109Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672584900080}
+2023-01-01T15:00:00.114Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:01:00.033Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:02:00.030Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:03:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:04:00.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:05:00.023Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:05:00.047Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:05:00.048Z [info][Plex Scan]: Scan starting {"sessionId":"1fb4093c-607d-4021-97c9-23d8443f69fb"}
+2023-01-01T15:05:00.049Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:05:00.079Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672585200106}
+2023-01-01T15:05:00.091Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672585200112}
+2023-01-01T15:05:00.099Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:06:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:07:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:08:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:09:00.044Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:10:00.031Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:10:00.067Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:10:00.070Z [info][Plex Scan]: Scan starting {"sessionId":"b1e79e90-b077-43f1-a2c6-4f27c53f1f8e"}
+2023-01-01T15:10:00.071Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:10:00.071Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:10:00.090Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:10:00.129Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672585500088}
+2023-01-01T15:10:00.144Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672585500097}
+2023-01-01T15:10:00.152Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:11:00.031Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:12:00.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:13:00.029Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:14:00.032Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:15:00.038Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:15:00.060Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:15:00.061Z [info][Plex Scan]: Scan starting {"sessionId":"5b2c103c-dcf4-4e43-a05c-d7754678b5e8"}
+2023-01-01T15:15:00.062Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:15:00.063Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:15:00.112Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672585800139}
+2023-01-01T15:15:00.123Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672585800148}
+2023-01-01T15:15:00.129Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:16:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:17:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:18:00.039Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:19:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:20:00.071Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:20:00.098Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:20:00.099Z [info][Plex Scan]: Scan starting {"sessionId":"05e5e731-8d78-472c-ae24-106773880e59"}
+2023-01-01T15:20:00.100Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:20:00.100Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:20:00.114Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:20:00.137Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672586100119}
+2023-01-01T15:20:00.148Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672586100127}
+2023-01-01T15:20:00.155Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:21:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:22:00.044Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:23:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:24:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:25:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:25:00.043Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:25:00.044Z [info][Plex Scan]: Scan starting {"sessionId":"235e6a01-82e5-415d-860c-413cb4e372e0"}
+2023-01-01T15:25:00.045Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:25:00.045Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:25:00.080Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672586400145}
+2023-01-01T15:25:00.092Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672586400152}
+2023-01-01T15:25:00.098Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:26:00.031Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:27:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:28:00.040Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:29:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:30:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:30:00.046Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:30:00.047Z [info][Plex Scan]: Scan starting {"sessionId":"9d0fd2ab-4d56-4fbe-9051-059920c7adec"}
+2023-01-01T15:30:00.048Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:30:00.048Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:30:00.079Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:30:00.101Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672586700089}
+2023-01-01T15:30:00.110Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672586700096}
+2023-01-01T15:30:00.115Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:31:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:32:00.048Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:33:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:34:00.032Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:35:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:35:00.061Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:35:00.062Z [info][Plex Scan]: Scan starting {"sessionId":"bcbbb9d9-8644-40b6-a75a-6a0def1b9422"}
+2023-01-01T15:35:00.063Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:35:00.064Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:35:00.092Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672587000107}
+2023-01-01T15:35:00.104Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672587000114}
+2023-01-01T15:35:00.111Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:36:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:37:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:38:00.033Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:39:00.059Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:40:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:40:00.066Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:40:00.068Z [info][Plex Scan]: Scan starting {"sessionId":"59194ff4-c3a9-4ecb-89c6-c7ac53c4a570"}
+2023-01-01T15:40:00.068Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:40:00.068Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:40:00.081Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:40:00.116Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672587300100}
+2023-01-01T15:40:00.130Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672587300109}
+2023-01-01T15:40:00.138Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:41:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:42:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:43:00.035Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:44:00.068Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:45:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:45:00.018Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:45:00.020Z [info][Plex Scan]: Scan starting {"sessionId":"1139e4ae-c1d5-4bae-a828-42eb760805dc"}
+2023-01-01T15:45:00.020Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:45:00.021Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:45:00.055Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672587600126}
+2023-01-01T15:45:00.079Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672587600135}
+2023-01-01T15:45:00.085Z [info][Plex Scan]: Recently Added Scan Complete 
+2023-01-01T15:46:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:46:35.358Z [info][Media Request]: Request has an override server: Radarr {"requestId":1,"mediaId":1}
+2023-01-01T15:46:35.370Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Glass Onion: A Knives Out Mystery (2022)"}
+2023-01-01T15:46:35.373Z [info][Media Request]: Sent request to Radarr {"requestId":1,"mediaId":1}
+2023-01-01T15:46:36.049Z [info][Radarr]: Radarr accepted request 
+2023-01-01T15:46:36.050Z [debug][Radarr]: Radarr add details {"movie":{"title":"Glass Onion: A Knives Out Mystery","originalTitle":"Glass Onion: A Knives Out Mystery","originalLanguage":{"id":1,"name":"English"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"glass onion knives out mystery","sizeOnDisk":0,"status":"released","overview":"World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.","inCinemas":"2022-11-23T00:00:00Z","digitalRelease":"2022-12-23T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/1/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg"},{"coverType":"fanart","url":"/MediaCover/1/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/lsN1wAbqCvUPKEhkEI9pQSSiTjU.jpg"}],"website":"https://glassonionmovie.com","year":2022,"hasFile":false,"youTubeTrailerId":"gj5ibYSz8C0","studio":"T-Street Productions","path":"/movies/Glass Onion A Knives Out Mystery (2022)","qualityProfileId":4,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/movies/Glass Onion A Knives Out Mystery (2022)","runtime":140,"cleanTitle":"glassonionknivesoutmystery","imdbId":"tt11564570","tmdbId":661374,"titleSlug":"661374","certification":"PG-13","genres":["Mystery","Thriller","Comedy"],"tags":[],"added":"2023-01-01T15:46:35Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":36985,"value":7.7,"type":"user"},"tmdb":{"votes":1643,"value":7.1,"type":"user"},"metacritic":{"votes":0,"value":81,"type":"user"},"rottenTomatoes":{"votes":0,"value":93,"type":"user"}},"collection":{"title":"Benoit Blanc Collection","tmdbId":722971,"monitored":false,"qualityProfileId":0,"searchOnAdd":false,"minimumAvailability":"tba","images":[],"added":"0001-01-01T00:01:00Z","id":0},"popularity":3470.27,"id":1}}
+2023-01-01T15:47:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:47:38.392Z [info][Media Request]: Request has an override server: Sonarr {"requestId":2,"mediaId":2}
+2023-01-01T15:47:38.407Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Wednesday (2022)"}
+2023-01-01T15:47:38.424Z [info][Media Request]: Sent request to Sonarr {"requestId":2,"mediaId":2}
+2023-01-01T15:47:40.591Z [info][Sonarr]: Sonarr accepted request 
+2023-01-01T15:47:40.594Z [debug][Sonarr]: Sonarr add details {"movie":{"title":"Wednesday","alternateTitles":[{"title":"Mercoledì","seasonNumber":-1},{"title":"Miércoles","seasonNumber":-1},{"title":"Mercredi","seasonNumber":-1}],"sortTitle":"wednesday","status":"continuing","ended":false,"overview":"Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore Academy.","previousAiring":"2022-11-23T08:00:00Z","network":"Netflix","airTime":"03:00","images":[{"coverType":"banner","url":"/MediaCover/1/banner.jpg?lastWrite=638081848592358713","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/397060/banners/639e548836035.jpg"},{"coverType":"poster","url":"/MediaCover/1/poster.jpg?lastWrite=638081848593284193","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/397060/posters/632dbd876738d.jpg"},{"coverType":"fanart","url":"/MediaCover/1/fanart.jpg?lastWrite=638081848594128267","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/397060/backgrounds/638872658fa2b.jpg"}],"seasons":[{"seasonNumber":1,"monitored":true,"statistics":{"previousAiring":"2022-11-23T08:00:00Z","episodeFileCount":0,"episodeCount":8,"totalEpisodeCount":8,"sizeOnDisk":0,"releaseGroups":[],"percentOfEpisodes":0}}],"year":2022,"path":"/tv/Wednesday","qualityProfileId":4,"languageProfileId":1,"seasonFolder":false,"monitored":true,"useSceneNumbering":false,"runtime":48,"tvdbId":397060,"tvRageId":0,"tvMazeId":53647,"firstAired":"2022-11-23T00:00:00Z","seriesType":"standard","cleanTitle":"wednesday","imdbId":"tt13443470","titleSlug":"wednesday","rootFolderPath":"/tv/","certification":"TV-14","genres":["Family","Fantasy","Horror","Mystery"],"tags":[],"added":"2023-01-01T15:47:38.813156Z","ratings":{"votes":0,"value":0},"statistics":{"seasonCount":1,"episodeFileCount":0,"episodeCount":8,"totalEpisodeCount":8,"sizeOnDisk":0,"releaseGroups":[],"percentOfEpisodes":0},"id":1}}
+2023-01-01T15:48:00.022Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:49:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:50:00.079Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2023-01-01T15:50:00.093Z [info][Jobs]: Starting scheduled job: Plex Recently Added Scan 
+2023-01-01T15:50:00.095Z [info][Plex Scan]: Scan starting {"sessionId":"c62c0ace-24a3-4a53-a34f-60b31279e2eb"}
+2023-01-01T15:50:00.096Z [info][Plex Scan]: At least one 4K Radarr server was detected. 4K movie detection is now enabled 
+2023-01-01T15:50:00.096Z [info][Plex Scan]: At least one 4K Sonarr server was detected. 4K series detection is now enabled 
+2023-01-01T15:50:00.111Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2023-01-01T15:50:00.129Z [info][Plex Scan]: Beginning to process recently added for library: Films {"lastScan":1672587900074}
+2023-01-01T15:50:00.138Z [info][Plex Scan]: Beginning to process recently added for library: Séries TV {"lastScan":1672587900083}
+2023-01-01T15:50:00.143Z [info][Plex Scan]: Recently Added Scan Complete 

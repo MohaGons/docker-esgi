@@ -1,0 +1,29 @@
+Jan 02, 2023 14:39:06.986 [0xffffacf5a9f8] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Jan 02, 2023 14:39:06.986 [0xffffacf5a9f8] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+Jan 02, 2023 14:39:06.986 [0xffffacf5a9f8] INFO - Processor: 4-core AArch64
+Jan 02, 2023 14:39:06.987 [0xffffacf5a9f8] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 1
+Jan 02, 2023 14:39:06.979 [0xffffb09ec038] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 14:39:07.052 [0xffffb09ec038] DEBUG - [MI] Opening input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:07.052 [0xffffb09ec038] DEBUG - [FFMPEG] - Opening '/movies/210329_06B_Bali_1080p_013.mp4' for reading
+Jan 02, 2023 14:39:07.052 [0xffffb09ec038] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1000, duration: 750000
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Offset DTS by 1000 to make first pts zero.
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jan 02, 2023 14:39:07.053 [0xffffb09ec038] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 19915 bytes read:32768 seeks:0 nb_streams:1
+Jan 02, 2023 14:39:07.054 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.054 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.055 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.055 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.056 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:07.056 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.056 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.056 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.056 [0xffffb09ec038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:07.058 [0xffffb09ec038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:07.109 [0xffffb09ec038] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 14:39:07.111 [0xffffb09ec038] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 664454 bytes read:664454 seeks:0 frames:1
+Jan 02, 2023 14:39:07.111 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:07.111 [0xffffb09ec038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3

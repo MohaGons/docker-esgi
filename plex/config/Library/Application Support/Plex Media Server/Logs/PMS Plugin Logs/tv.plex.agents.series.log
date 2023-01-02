@@ -1,0 +1,64 @@
+2023-01-01 14:47:31,962 (ffff9fbae890) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 629d580 (Thu Dec 08 08:49:09 UTC 2022)
+2023-01-01 14:47:31,963 (ffff9fbae890) :  DEBUG (core:361) - Using the elevated policy
+2023-01-01 14:47:31,965 (ffff9fbae890) :  DEBUG (core:450) - Starting runtime component.
+2023-01-01 14:47:31,979 (ffff9fbae890) :  DEBUG (core:450) - Starting caching component.
+2023-01-01 14:47:31,981 (ffff9fbae890) :  DEBUG (core:450) - Starting data component.
+2023-01-01 14:47:31,982 (ffff9fbae890) :  DEBUG (core:450) - Starting networking component.
+2023-01-01 14:47:31,984 (ffff9fbae890) :  DEBUG (networking:265) - No cookie jar found
+2023-01-01 14:47:32,010 (ffff9fbae890) :  DEBUG (networking:428) - Setting the default network timeout to 20.0
+2023-01-01 14:47:32,012 (ffff9fbae890) :  DEBUG (core:450) - Starting localization component.
+2023-01-01 14:47:32,016 (ffff9fbae890) :  INFO (localization:409) - Setting the default locale to en-us
+2023-01-01 14:47:32,017 (ffff9fbae890) :  DEBUG (core:450) - Starting messaging component.
+2023-01-01 14:47:32,019 (ffff9fbae890) :  DEBUG (core:450) - Starting debugging component.
+2023-01-01 14:47:32,023 (ffff9fbae890) :  DEBUG (core:450) - Starting services component.
+2023-01-01 14:47:32,025 (ffff9fbae890) :  DEBUG (core:450) - Starting myplex component.
+2023-01-01 14:47:32,028 (ffff9fbae890) :  DEBUG (core:450) - Starting notifications component.
+2023-01-01 14:47:32,040 (ffff9c8afb08) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/tv.plex.agents.series'
+2023-01-01 14:47:32,122 (ffff9fbae890) :  DEBUG (accessor:68) - Creating a new model access point for provider tv.plex.agents.series in namespace 'metadata'
+2023-01-01 14:47:32,148 (ffff9fbae890) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2023-01-01 14:47:32,200 (ffff9fbae890) :  ERROR (networking:196) - Error opening URL 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2023-01-01 14:47:32,204 (ffff9fbae890) :  CRITICAL (runtime:1299) - Exception getting hosted resource hashes (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-629d58034/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/runtime.py", line 1293, in get_resource_hashes
+    json = self._core.networking.http_request("http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes", timeout=10).content
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-629d58034/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 242, in content
+    return self.__str__()
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-629d58034/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 220, in __str__
+    self.load()
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-629d58034/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/networking.py", line 158, in load
+    f = self._opener.open(req, timeout=self._timeout)
+  File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/plexmediaserver/Resources/Python/python27.zip/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+HTTPError: HTTP Error 404: Not Found
+
+2023-01-01 14:47:32,211 (ffff9fbae890) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2023-01-01 14:47:32,211 (ffff9c68fb08) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2023-01-01 14:47:32,225 (ffff9fbae890) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2023-01-01 14:47:32,227 (ffff9c649b08) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400'
+2023-01-01 14:47:32,240 (ffff9c68fb08) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2023-01-01 14:47:32,259 (ffff9fbae890) :  DEBUG (core:150) - Finished starting framework core
+2023-01-01 14:47:32,263 (ffff9fbae890) :  DEBUG (core:560) - Loading plug-in code
+2023-01-01 14:47:32,259 (ffff9c649b08) :  DEBUG (core:538) - Machine identifier is 0f00f9916b10d7dcfc749828c4348900652222fa
+2023-01-01 14:47:32,271 (ffff9c649b08) :  DEBUG (core:539) - Server version is 1.30.0.6486-629d58034
+2023-01-01 14:47:32,269 (ffff9fbae890) :  DEBUG (core:566) - Finished loading plug-in code
+2023-01-01 14:47:32,276 (ffff9fbae890) :  DEBUG (agentkit:1132) - Creating new agent class called PlexSeries
+2023-01-01 14:47:32,284 (ffff9fbae890) :  DEBUG (agentkit:937) - Updating agent information: [{'media_types': ['TV_Show'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': [], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Plex TV Series'}]
+2023-01-01 14:47:32,294 (ffff9c68fb08) :  DEBUG (services:362) - Loaded services
+2023-01-01 14:47:32,297 (ffff9fbae890) :  DEBUG (networking:143) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo1CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdAoyCnMyMQp0di5wbGV4LmFnZW50cy5zZXJpZXNzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNuczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRuczE0CmNvbnRyaWJ1dGVzX3RvcjQKczkKbGFuZ3VhZ2VzYjFzMjAKcGVyc2lzdF9zdG9yZWRfZmlsZXNpMApzNwp2ZXJzaW9uYjFzMTYKcHJpbWFyeV9wcm92aWRlcmIxczUKcHJlZnNzMTQKUGxleCBUViBTZXJpZXNzNApuYW1lMQpzNwpUVl9TaG93MApyMAo_'
+2023-01-01 14:47:32,298 (ffff9c66cb08) :  DEBUG (services:438) - No shared code to load
+2023-01-01 14:47:32,322 (ffff9fbae890) :  CRITICAL (sandbox:298) - Function named 'Start' couldn't be found in the current environment
+2023-01-01 14:47:32,324 (ffff9fbae890) :  INFO (core:611) - Started plug-in
+2023-01-01 14:47:32,325 (ffff9fbae890) :  DEBUG (socketinterface:160) - Starting socket server
+2023-01-01 14:47:32,332 (ffff9fbae890) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2023-01-01 14:47:32,335 (ffff9fbae890) :  INFO (socketinterface:184) - Socket server started on port 39691
+2023-01-01 14:47:32,337 (ffff9fbae890) :  INFO (pipeinterface:25) - Entering run loop
+2023-01-01 14:47:32,338 (ffff9fbae890) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2023-01-01 14:47:32,341 (ffff9fbae890) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2023-01-01 14:47:32,343 (ffff9fbae890) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 146 bytes

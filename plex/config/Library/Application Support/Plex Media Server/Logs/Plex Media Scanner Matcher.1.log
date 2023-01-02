@@ -1,0 +1,38 @@
+Jan 02, 2023 14:39:05.382 [0xffff8b5b19f8] INFO - Plex Media Scanner v1.30.0.6486-629d58034 - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Jan 02, 2023 14:39:05.383 [0xffff8b5b19f8] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+Jan 02, 2023 14:39:05.383 [0xffff8b5b19f8] INFO - Processor: 4-core AArch64
+Jan 02, 2023 14:39:05.383 [0xffff8b5b19f8] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --files /movies/210329_06B_Bali_1080p_013.mp4
+Jan 02, 2023 14:39:05.377 [0xffff8f043038] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.35.5, threadsafe=1
+Jan 02, 2023 14:39:05.487 [0xffff8f043038] DEBUG - [MI] Opening input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:05.490 [0xffff8f043038] DEBUG - [FFMPEG] - Opening '/movies/210329_06B_Bali_1080p_013.mp4' for reading
+Jan 02, 2023 14:39:05.491 [0xffff8f043038] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Jan 02, 2023 14:39:05.500 [0xffff8f043038] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jan 02, 2023 14:39:05.501 [0xffff8f043038] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jan 02, 2023 14:39:05.506 [0xffff8f043038] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jan 02, 2023 14:39:05.507 [0xffff8f043038] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1000, duration: 750000
+Jan 02, 2023 14:39:05.507 [0xffff8f043038] DEBUG - [FFMPEG] - Offset DTS by 1000 to make first pts zero.
+Jan 02, 2023 14:39:05.507 [0xffff8f043038] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jan 02, 2023 14:39:05.511 [0xffff8f043038] INFO - CodecManager: obtaining decoder 'h264'
+Jan 02, 2023 14:39:05.511 [0xffff8f043038] DEBUG - [HCl#1] HTTP requesting GET https://plex.tv/api/codecs/h264_decoder?build=linux-aarch64-standard&deviceId=99ad1587-2bbd-4f8e-bb3d-49dd7086088a&oldestPreviousVersion=1%2E30%2E0%2E6486-629d58034&version=583b3e4-4434
+Jan 02, 2023 14:39:05.696 [0xffff8ac959f8] DEBUG - [HttpClient/HCl#1] HTTP/2.0 (0.2s) 200 response from GET https://plex.tv/api/codecs/h264_decoder?build=linux-aarch64-standard&deviceId=99ad1587-2bbd-4f8e-bb3d-49dd7086088a&oldestPreviousVersion=1%2E30%2E0%2E6486-629d58034&version=583b3e4-4434
+Jan 02, 2023 14:39:05.701 [0xffff8aad19f8] DEBUG - [GetFile/HCl#2] HTTP requesting GET https://downloads.plex.tv/codecs/583b3e4-4434/linux-aarch64-standard/libh264_decoder.so
+Jan 02, 2023 14:39:05.920 [0xffff8ac959f8] DEBUG - [HttpClient/HCl#2] HTTP/2.0 (0.2s) 200 response from GET https://downloads.plex.tv/codecs/583b3e4-4434/linux-aarch64-standard/libh264_decoder.so
+Jan 02, 2023 14:39:05.931 [0xffff8f043038] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 19915 bytes read:32768 seeks:0 nb_streams:1
+Jan 02, 2023 14:39:05.934 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.934 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.937 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.937 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.938 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 9(AUD), nal_ref_idc: 0
+Jan 02, 2023 14:39:05.938 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.938 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.938 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.938 [0xffff8f043038] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jan 02, 2023 14:39:05.941 [0xffff8f043038] DEBUG - [FFMPEG] - no picture 
+Jan 02, 2023 14:39:05.986 [0xffff8f043038] DEBUG - [FFMPEG] - All info found
+Jan 02, 2023 14:39:05.988 [0xffff8f043038] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 664454 bytes read:664454 seeks:0 frames:1
+Jan 02, 2023 14:39:05.988 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.988 [0xffff8f043038] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Jan 02, 2023 14:39:05.989 [0xffff8f043038] DEBUG - [MI] Closing input file: "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:05.989 [0xffff8f043038] DEBUG - Matcher: found 0 auxiliary files in "/movies" (single media: yes)
+Jan 02, 2023 14:39:05.989 [0xffff8f043038] DEBUG - Matcher: no sidecar subtitle files found for "/movies/210329_06B_Bali_1080p_013.mp4"
+Jan 02, 2023 14:39:05.997 [0xffff8f043038] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

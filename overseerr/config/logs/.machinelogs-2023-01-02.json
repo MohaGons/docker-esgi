@@ -1,0 +1,757 @@
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T10:03:14.674Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T10:03:15.208Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T10:03:16.708Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T10:03:16.736Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T10:03:16.854Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:04:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:05:00.040Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:05:00.060Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"9399e8c2-96d9-4877-8580-194fa93f73d4","timestamp":"2023-01-02T10:05:00.066Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:05:00.069Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:05:00.070Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:06:00.043Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:06:15.152Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:07:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:08:00.040Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:09:00.048Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:10:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:10:00.044Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"b0b9a0de-9339-4570-aebe-c64d53d51f3e","timestamp":"2023-01-02T10:10:00.046Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:10:00.047Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:10:00.049Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T10:10:00.067Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:11:00.047Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:11:15.090Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:12:00.049Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:13:00.047Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:14:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.380Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.392Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"2c037aad-3010-453e-89c1-0e13776166d2","timestamp":"2023-01-02T10:40:27.394Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.394Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.395Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.408Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.413Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.416Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.419Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.426Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.428Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"78b17cb8-b76e-4537-b5fe-5545dd6c4dd6","timestamp":"2023-01-02T10:40:27.428Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.429Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.429Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T10:40:27.431Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.436Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.439Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.442Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.445Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.453Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.455Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"044dc61d-76ad-4a74-a0a3-c604a0dd1a66","timestamp":"2023-01-02T10:40:27.455Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.456Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.456Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.459Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.462Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.465Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.468Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.471Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.473Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"fb5b3312-30e5-414f-832d-4404e32d94c8","timestamp":"2023-01-02T10:40:27.473Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.474Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.474Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T10:40:27.475Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.476Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.478Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.480Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.482Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.483Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.484Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e21a2726-8e4a-4712-a51d-cee54af3cbd5","timestamp":"2023-01-02T10:40:27.485Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.485Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.485Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.486Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.487Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.489Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.491Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:40:27.492Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:40:27.493Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"63d708d2-3259-43d3-8408-2ad94b043c65","timestamp":"2023-01-02T10:40:27.493Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:40:27.493Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:40:27.493Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T10:40:27.494Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:40:39.056Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:40:53.901Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:41:00.005Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:41:39.819Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.425Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.444Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.470Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.479Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.490Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:41:42.497Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:42:00.026Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:42:17.772Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:42:31.489Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:43:00.028Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: Request failed with status code 401","timestamp":"2023-01-02T10:43:06.136Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: Request failed with status code 401","timestamp":"2023-01-02T10:43:10.311Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.5:7878","timestamp":"2023-01-02T10:43:30.477Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:43:37.912Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:43:45.225Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:43:50.436Z"}
+{"label":"Sonarr","level":"error","message":"[Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.2:8989","timestamp":"2023-01-02T10:43:59.325Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:44:00.017Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:44:00.495Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:44:13.752Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:44:19.845Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.5:7878","timestamp":"2023-01-02T10:44:51.843Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:45:00.020Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:45:00.027Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"aea738bd-7690-498f-b578-326cdf8f70e1","timestamp":"2023-01-02T10:45:00.029Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:45:00.031Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.5:7878","timestamp":"2023-01-02T10:45:02.906Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:45:12.820Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 192.168.0.5:7878","timestamp":"2023-01-02T10:45:21.328Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:45:38.172Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:46:00.019Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:46:12.802Z"}
+{"errorMessage":"connect ECONNREFUSED 192.168.0.6:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T10:46:15.055Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:46:31.648Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:47:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:48:00.027Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:48:21.501Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:48:37.125Z"}
+{"label":"Media Request","level":"info","mediaId":3,"message":"Request has an override server: Radarr","requestId":3,"timestamp":"2023-01-02T10:48:44.863Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Avatar: The Way of Water (2022)","timestamp":"2023-01-02T10:48:44.871Z"}
+{"label":"Media Request","level":"info","mediaId":3,"message":"Sent request to Radarr","requestId":3,"timestamp":"2023-01-02T10:48:44.874Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T10:48:45.484Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T10:48:45Z","alternateTitles":[],"certification":"PG-13","cleanTitle":"avatarwaywater","collection":{"added":"0001-01-01T00:01:00Z","id":0,"images":[],"minimumAvailability":"tba","monitored":false,"qualityProfileId":0,"searchOnAdd":false,"title":"Avatar Collection","tmdbId":87096},"folderName":"/movies/Avatar The Way of Water (2022)","genres":["Science Fiction","Adventure","Action"],"hasFile":false,"id":2,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg","url":"/MediaCover/2/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg","url":"/MediaCover/2/fanart.jpg"}],"imdbId":"tt1630029","inCinemas":"2022-12-14T00:00:00Z","isAvailable":false,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"Avatar: The Way of Water","overview":"Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.","path":"/movies/Avatar The Way of Water (2022)","physicalRelease":"2023-04-24T00:00:00Z","popularity":5896.522,"qualityProfileId":4,"ratings":{"imdb":{"type":"user","value":8,"votes":102537},"rottenTomatoes":{"type":"user","value":77,"votes":0},"tmdb":{"type":"user","value":7.695,"votes":3262}},"runtime":192,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"avatar way water","status":"inCinemas","studio":"Lightstorm Entertainment","tags":[],"title":"Avatar: The Way of Water","titleSlug":"76600","tmdbId":76600,"website":"https://www.avatar.com/movies/avatar-the-way-of-water","year":2022,"youTubeTrailerId":"o5F8MOz_IDw"},"timestamp":"2023-01-02T10:48:45.484Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:49:00.021Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:49:18.091Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T10:49:53.863Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:50:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:50:00.020Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"dd423e86-4f3e-44b5-a008-e04346d043b0","timestamp":"2023-01-02T10:50:00.022Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:50:00.023Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:50:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T10:50:00.035Z"}
+{"label":"Plex Scan","lastScan":1672588200134,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T10:50:00.053Z"}
+{"label":"Plex Scan","lastScan":1672588200141,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T10:50:00.068Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T10:50:00.074Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:51:00.037Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:52:00.041Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:53:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:54:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:55:00.039Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T10:55:00.053Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"0d62d28b-d6e6-4a44-9119-28e528fdb80a","timestamp":"2023-01-02T10:55:00.054Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T10:55:00.055Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T10:55:00.058Z"}
+{"label":"Plex Scan","lastScan":1672656600065,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T10:55:00.086Z"}
+{"label":"Plex Scan","lastScan":1672656600073,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T10:55:00.099Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T10:55:00.106Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:56:00.041Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:57:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:58:00.036Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T10:59:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:00:00.034Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:00:00.069Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"55c7b4bb-0fb9-4dfe-96c2-1384373ceba7","timestamp":"2023-01-02T11:00:00.070Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:00:00.070Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:00:00.070Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:00:00.083Z"}
+{"label":"Plex Scan","lastScan":1672656900093,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:00:00.102Z"}
+{"label":"Plex Scan","lastScan":1672656900105,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:00:00.113Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:00:00.118Z"}
+{"errorMessage":"[RT API] Failed to retrieve movie ratings: Request failed with status code 404","label":"API","level":"debug","message":"Something went wrong retrieving movie ratings","movieId":"744594","timestamp":"2023-01-02T11:00:57.840Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:01:00.006Z"}
+{"label":"Media Request","level":"info","mediaId":4,"message":"Request has an override server: Radarr","requestId":4,"timestamp":"2023-01-02T11:01:03.147Z"}
+{"label":"Media Request","level":"info","mediaId":4,"message":"Request has an override quality profile ID: 7","requestId":4,"timestamp":"2023-01-02T11:01:03.147Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"White Noise (2022)","timestamp":"2023-01-02T11:01:03.157Z"}
+{"label":"Media Request","level":"info","mediaId":4,"message":"Sent request to Radarr","requestId":4,"timestamp":"2023-01-02T11:01:03.160Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T11:01:03.938Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T11:01:03Z","alternateTitles":[],"certification":"R","cleanTitle":"whitenoise","digitalRelease":"2022-12-30T00:00:00Z","folderName":"/movies/White Noise (2022)","genres":["Comedy","Drama","Science Fiction"],"hasFile":false,"id":3,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/1a48bfLQm57ByADdw05uRMoFCZc.jpg","url":"/MediaCover/3/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/eLmA7Lw0EnXM8baIxbhyuzM37jP.jpg","url":"/MediaCover/3/fanart.jpg"}],"imdbId":"tt6160448","inCinemas":"2022-12-07T00:00:00Z","isAvailable":true,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"White Noise","overview":"Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an \"Airborne Toxic Event\" forcing Jack to confront his biggest fear - his own mortality.","path":"/movies/White Noise (2022)","popularity":42.16,"qualityProfileId":7,"ratings":{"imdb":{"type":"user","value":6.6,"votes":1785},"metacritic":{"type":"user","value":67,"votes":0},"rottenTomatoes":{"type":"user","value":64,"votes":0},"tmdb":{"type":"user","value":5.635,"votes":74}},"runtime":135,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"white noise","status":"released","studio":"Heyday Films","tags":[],"title":"White Noise","titleSlug":"744594","tmdbId":744594,"website":"https://whitenoise-movie.com","year":2022,"youTubeTrailerId":"SgwKZAMx_gM"},"timestamp":"2023-01-02T11:01:03.938Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:02:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:03:00.007Z"}
+{"label":"Media Request","level":"info","mediaId":5,"message":"Request has an override server: Sonarr","requestId":5,"timestamp":"2023-01-02T11:03:04.430Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"The Glory (2022)","timestamp":"2023-01-02T11:03:04.444Z"}
+{"label":"Media Request","level":"info","mediaId":5,"message":"Request has an override quality profile ID: 7","requestId":5,"timestamp":"2023-01-02T11:03:04.451Z"}
+{"label":"Media Request","level":"info","mediaId":5,"message":"Sent request to Sonarr","requestId":5,"timestamp":"2023-01-02T11:03:04.452Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2023-01-02T11:03:05.277Z"}
+{"label":"Sonarr","level":"debug","message":"Sonarr add details","movie":{"addOptions":{"ignoreEpisodesWithFiles":true,"ignoreEpisodesWithoutFiles":false,"monitor":"unknown","searchForCutoffUnmetEpisodes":false,"searchForMissingEpisodes":true},"added":"2023-01-02T11:03:05.186183Z","airTime":"02:00","alternateTitles":[],"certification":"TV-MA","cleanTitle":"theglory","ended":false,"firstAired":"2022-12-30T00:00:00Z","genres":["Drama","Suspense"],"id":2,"images":[{"coverType":"banner","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/411469/banners/6388fad6283a3.jpg","url":"/MediaCover/2/banner.jpg"},{"coverType":"poster","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/411469/posters/6393d8b2ea0c5.jpg","url":"/MediaCover/2/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/411469/backgrounds/6391dfc21e01e.jpg","url":"/MediaCover/2/fanart.jpg"}],"imdbId":"tt21344706","languageProfileId":1,"monitored":true,"network":"Netflix","overview":"Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.","path":"/tv/The Glory","qualityProfileId":7,"ratings":{"value":0,"votes":0},"rootFolderPath":"/tv/","runtime":50,"seasonFolder":false,"seasons":[{"monitored":true,"seasonNumber":1}],"seriesType":"standard","sortTitle":"glory","statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"seasonCount":1,"sizeOnDisk":0,"totalEpisodeCount":0},"status":"continuing","tags":[],"title":"The Glory","titleSlug":"the-glory","tvMazeId":65502,"tvRageId":0,"tvdbId":411469,"useSceneNumbering":false,"year":2022},"timestamp":"2023-01-02T11:03:05.277Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:04:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:05:00.043Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:05:00.064Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"06a1e23e-1e53-49a0-aace-39c79e9cc6ab","timestamp":"2023-01-02T11:05:00.068Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:05:00.068Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:05:00.069Z"}
+{"label":"Plex Scan","lastScan":1672657200108,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:05:00.102Z"}
+{"label":"Plex Scan","lastScan":1672657200117,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:05:00.110Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:05:00.115Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Request has an override server: Radarr","requestId":6,"timestamp":"2023-01-02T11:05:57.638Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Request has an override quality profile ID: 7","requestId":6,"timestamp":"2023-01-02T11:05:57.639Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)","timestamp":"2023-01-02T11:05:57.657Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Sent request to Radarr","requestId":6,"timestamp":"2023-01-02T11:05:57.659Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T11:05:58.190Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T11:05:58Z","alternateTitles":[],"certification":"PG","cleanTitle":"thechroniclesnarnialionwitchwardrobe","collection":{"added":"0001-01-01T00:01:00Z","id":0,"images":[],"minimumAvailability":"tba","monitored":false,"qualityProfileId":0,"searchOnAdd":false,"title":"The Chronicles of Narnia Collection","tmdbId":420},"digitalRelease":"2008-12-22T00:00:00Z","folderName":"/movies/The Chronicles of Narnia The Lion, the Witch and the Wardrobe (2005)","genres":["Adventure","Family","Fantasy"],"hasFile":false,"id":4,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/clfyMMg00OiowO5uupKpVKjRwmV.jpg","url":"/MediaCover/4/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/tuDhEdza074bA497bO9WFEPs6O6.jpg","url":"/MediaCover/4/fanart.jpg"}],"imdbId":"tt0363771","inCinemas":"2005-12-07T00:00:00Z","isAvailable":true,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","overview":"Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.","path":"/movies/The Chronicles of Narnia The Lion, the Witch and the Wardrobe (2005)","physicalRelease":"2006-04-19T00:00:00Z","popularity":4914.832,"qualityProfileId":7,"ratings":{"imdb":{"type":"user","value":6.9,"votes":401026},"metacritic":{"type":"user","value":75,"votes":0},"rottenTomatoes":{"type":"user","value":76,"votes":0},"tmdb":{"type":"user","value":7.1,"votes":9054}},"runtime":143,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"chronicles narnia lion witch wardrobe","status":"released","studio":"Walt Disney Pictures","tags":[],"title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","titleSlug":"411","tmdbId":411,"website":"","year":2005,"youTubeTrailerId":"3mKPrxjwF7A"},"timestamp":"2023-01-02T11:05:58.190Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:06:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:07:00.010Z"}
+{"label":"Media Request","level":"info","mediaId":7,"message":"Request has an override server: Radarr","requestId":7,"timestamp":"2023-01-02T11:07:49.654Z"}
+{"label":"Media Request","level":"info","mediaId":7,"message":"Request has an override quality profile ID: 7","requestId":7,"timestamp":"2023-01-02T11:07:49.655Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Avatar (2009)","timestamp":"2023-01-02T11:07:49.674Z"}
+{"label":"Media Request","level":"info","mediaId":7,"message":"Sent request to Radarr","requestId":7,"timestamp":"2023-01-02T11:07:49.676Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T11:07:50.047Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T11:07:50Z","alternateTitles":[],"certification":"PG-13","cleanTitle":"avatar","collection":{"added":"0001-01-01T00:01:00Z","id":0,"images":[],"minimumAvailability":"tba","monitored":false,"qualityProfileId":0,"searchOnAdd":false,"title":"Avatar Collection","tmdbId":87096},"digitalRelease":"2012-01-26T00:00:00Z","folderName":"/movies/Avatar (2009)","genres":["Action","Adventure","Fantasy"],"hasFile":false,"id":5,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg","url":"/MediaCover/5/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/o0s4XsEDfDlvit5pDRKjzXR4pp2.jpg","url":"/MediaCover/5/fanart.jpg"}],"imdbId":"tt0499549","inCinemas":"2009-12-15T00:00:00Z","isAvailable":true,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"Avatar","overview":"In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.","path":"/movies/Avatar (2009)","physicalRelease":"2010-04-22T00:00:00Z","popularity":2961.239,"qualityProfileId":7,"ratings":{"imdb":{"type":"user","value":7.8,"votes":1271129},"metacritic":{"type":"user","value":83,"votes":0},"rottenTomatoes":{"type":"user","value":82,"votes":0},"tmdb":{"type":"user","value":7.552,"votes":27362}},"runtime":162,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"avatar","status":"released","studio":"20th Century Fox","tags":[],"title":"Avatar","titleSlug":"19995","tmdbId":19995,"website":"https://www.avatar.com/movies/avatar","year":2009,"youTubeTrailerId":"jm2sNLIPPvA"},"timestamp":"2023-01-02T11:07:50.047Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:08:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:09:00.030Z"}
+{"label":"Media Request","level":"info","mediaId":8,"message":"Request has an override server: Sonarr","requestId":8,"timestamp":"2023-01-02T11:09:41.538Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Alice in Borderland (2020)","timestamp":"2023-01-02T11:09:41.560Z"}
+{"label":"Media Request","level":"info","mediaId":8,"message":"Request has an override quality profile ID: 7","requestId":8,"timestamp":"2023-01-02T11:09:41.567Z"}
+{"label":"Media Request","level":"info","mediaId":8,"message":"Sent request to Sonarr","requestId":8,"timestamp":"2023-01-02T11:09:41.569Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2023-01-02T11:09:42.048Z"}
+{"label":"Sonarr","level":"debug","message":"Sonarr add details","movie":{"addOptions":{"ignoreEpisodesWithFiles":true,"ignoreEpisodesWithoutFiles":false,"monitor":"unknown","searchForCutoffUnmetEpisodes":false,"searchForMissingEpisodes":true},"added":"2023-01-02T11:09:42.017153Z","airTime":"15:00","alternateTitles":[{"seasonNumber":-1,"title":"Alice in Borderland"}],"certification":"TV-MA","cleanTitle":"aliceinborderland2020","ended":true,"firstAired":"2020-12-10T00:00:00Z","genres":["Action","Adventure","Science Fiction","Thriller"],"id":3,"images":[{"coverType":"banner","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/banners/5fdfc72ad2a10.jpg","url":"/MediaCover/3/banner.jpg"},{"coverType":"poster","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/posters/5fbcea9096847.jpg","url":"/MediaCover/3/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://artworks.thetvdb.com/banners/series/376472/backgrounds/5fafff86f0364.jpg","url":"/MediaCover/3/fanart.jpg"}],"imdbId":"tt10795658","languageProfileId":1,"monitored":true,"network":"Netflix","overview":"An aimless gamer and his two friends find themselves in a parallel Tokyo, where they're forced to compete in a series of sadistic games to survive.","path":"/tv/Alice in Borderland (2020)","qualityProfileId":7,"ratings":{"value":0,"votes":0},"rootFolderPath":"/tv/","runtime":49,"seasonFolder":false,"seasons":[{"monitored":true,"seasonNumber":1},{"monitored":false,"seasonNumber":2}],"seriesType":"standard","sortTitle":"alice in borderland 2020","statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"seasonCount":2,"sizeOnDisk":0,"totalEpisodeCount":0},"status":"ended","tags":[],"title":"Alice in Borderland (2020)","titleSlug":"alice-in-borderland-2020","tvMazeId":50036,"tvRageId":0,"tvdbId":376472,"useSceneNumbering":false,"year":2020},"timestamp":"2023-01-02T11:09:42.048Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:10:00.011Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:10:00.022Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4d10fd47-5ec3-4082-be54-9c3b31029e33","timestamp":"2023-01-02T11:10:00.023Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:10:00.024Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:10:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:10:00.031Z"}
+{"label":"Plex Scan","lastScan":1672657500107,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:10:00.045Z"}
+{"label":"Plex Scan","lastScan":1672657500113,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:10:00.061Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:10:00.073Z"}
+{"errorMessage":"Could not find any entity of type \"MediaRequest\" matching: {\n    \"where\": {\n        \"id\": 6\n    },\n    \"relations\": {\n        \"requestedBy\": true,\n        \"modifiedBy\": true\n    }\n}","label":"API","level":"debug","message":"Failed to retrieve request.","timestamp":"2023-01-02T11:10:08.457Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Request has an override server: Radarr","requestId":9,"timestamp":"2023-01-02T11:10:20.218Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Request has an override quality profile ID: 7","requestId":9,"timestamp":"2023-01-02T11:10:20.220Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)","timestamp":"2023-01-02T11:10:20.237Z"}
+{"label":"Media Request","level":"info","mediaId":6,"message":"Sent request to Radarr","requestId":9,"timestamp":"2023-01-02T11:10:20.240Z"}
+{"label":"Radarr","level":"info","message":"Movie is already monitored in Radarr. Skipping add and returning success","timestamp":"2023-01-02T11:10:20.482Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:11:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:12:00.061Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:13:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:14:00.049Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:15:00.029Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:15:00.062Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"208a49ad-67e8-480c-a2a3-2f46018f9f80","timestamp":"2023-01-02T11:15:00.064Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:15:00.064Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:15:00.065Z"}
+{"label":"Plex Scan","lastScan":1672657800053,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:15:00.104Z"}
+{"label":"Plex Scan","lastScan":1672657800070,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:15:00.123Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:15:00.129Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:16:00.040Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:17:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:18:00.046Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:19:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:20:00.059Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:20:00.074Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"0f7f7c2d-f052-473f-a2db-f7ce3eea3780","timestamp":"2023-01-02T11:20:00.076Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:20:00.076Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:20:00.077Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:20:00.092Z"}
+{"label":"Plex Scan","lastScan":1672658100110,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:20:00.110Z"}
+{"label":"Plex Scan","lastScan":1672658100127,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:20:00.119Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:20:00.124Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:21:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:22:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:23:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:24:00.034Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:25:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:25:00.039Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"08ffedde-5315-4618-8657-79e849306c4f","timestamp":"2023-01-02T11:25:00.041Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:25:00.042Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:25:00.042Z"}
+{"label":"Plex Scan","lastScan":1672658400115,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:25:00.077Z"}
+{"label":"Plex Scan","lastScan":1672658400122,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:25:00.089Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:25:00.095Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:26:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:27:00.057Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:28:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:29:00.067Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:30:00.018Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:30:00.048Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"edb51ae6-7122-4429-b822-400fa9091c66","timestamp":"2023-01-02T11:30:00.049Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:30:00.049Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:30:00.049Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:30:00.064Z"}
+{"label":"Plex Scan","lastScan":1672658700085,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:30:00.082Z"}
+{"label":"Plex Scan","lastScan":1672658700094,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:30:00.091Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:30:00.096Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:31:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:32:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:33:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:34:00.038Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:35:00.018Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:35:00.040Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"bacfa6df-7aa0-48dc-802f-9872badd9653","timestamp":"2023-01-02T11:35:00.041Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:35:00.042Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:35:00.042Z"}
+{"label":"Plex Scan","lastScan":1672659000087,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:35:00.073Z"}
+{"label":"Plex Scan","lastScan":1672659000094,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:35:00.084Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:35:00.089Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:36:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:37:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:38:00.034Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:39:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:41:01.810Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:41:01.824Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"a5fcf3e0-ddb0-44e9-a5a9-5ef899e6c13d","timestamp":"2023-01-02T11:41:01.826Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:41:01.827Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:41:01.828Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:41:01.843Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:41:01.851Z"}
+{"label":"Plex Scan","lastScan":1672659300080,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:41:01.867Z"}
+{"label":"Plex Scan","lastScan":1672659300088,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:41:01.875Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:41:01.881Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T11:45:49.147Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T11:45:49.473Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T11:45:50.183Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T11:45:50.200Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T11:45:50.283Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:46:00.030Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T11:48:01.149Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T11:48:01.503Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T11:48:02.206Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T11:48:02.227Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T11:48:02.307Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T11:48:38.993Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T11:48:40.053Z"}
+{"errorMessage":"Request failed with status code 403","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Overseerr can't check if it's on the latest version.","timestamp":"2023-01-02T11:48:46.316Z"}
+{"label":"Media Request","level":"info","mediaId":9,"message":"Request has an override server: Radarr","requestId":10,"timestamp":"2023-01-02T11:48:54.685Z"}
+{"label":"Media Request","level":"info","mediaId":9,"message":"Request has an override quality profile ID: 7","requestId":10,"timestamp":"2023-01-02T11:48:54.686Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Violent Night (2022)","timestamp":"2023-01-02T11:48:54.695Z"}
+{"label":"Media Request","level":"info","mediaId":9,"message":"Sent request to Radarr","requestId":10,"timestamp":"2023-01-02T11:48:54.700Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-01-02T11:48:55.641Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-01-02T11:48:55Z","alternateTitles":[],"certification":"R","cleanTitle":"violentnight","digitalRelease":"2022-12-20T00:00:00Z","folderName":"/movies/Violent Night (2022)","genres":["Action","Comedy","Crime"],"hasFile":false,"id":6,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/1XSYOP0JjjyMz1irihvWywro82r.jpg","url":"/MediaCover/6/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/6mEYUYdkKoVCMeYf3rTFj0L1uyv.jpg","url":"/MediaCover/6/fanart.jpg"}],"imdbId":"tt12003946","inCinemas":"2022-11-30T00:00:00Z","isAvailable":true,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"Violent Night","overview":"When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.","path":"/movies/Violent Night (2022)","physicalRelease":"2023-02-16T00:00:00Z","popularity":4379.384,"qualityProfileId":7,"ratings":{"imdb":{"type":"user","value":6.9,"votes":25180},"metacritic":{"type":"user","value":55,"votes":0},"rottenTomatoes":{"type":"user","value":71,"votes":0},"tmdb":{"type":"user","value":7.719,"votes":651}},"runtime":112,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"violent night","status":"released","studio":"Universal Pictures","tags":[],"title":"Violent Night","titleSlug":"899112","tmdbId":899112,"website":"https://www.violentnightmovie.com","year":2022,"youTubeTrailerId":"a53e4HHnx_s"},"timestamp":"2023-01-02T11:48:55.642Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:49:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:50:00.044Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T11:50:00.071Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:50:00.088Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"2e931010-c6aa-4f01-a211-718edcd07ebb","timestamp":"2023-01-02T11:50:00.090Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:50:00.090Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:50:00.091Z"}
+{"label":"Plex Scan","lastScan":1672659661872,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:50:00.116Z"}
+{"label":"Plex Scan","lastScan":1672659661879,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:50:00.127Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:50:00.132Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:51:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:52:00.051Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:53:00.068Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:54:00.047Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:55:00.036Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T11:55:00.064Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"19cd548d-428f-4767-91f1-b2be48e91486","timestamp":"2023-01-02T11:55:00.065Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T11:55:00.067Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T11:55:00.068Z"}
+{"label":"Plex Scan","lastScan":1672660200124,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T11:55:00.091Z"}
+{"label":"Plex Scan","lastScan":1672660200131,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T11:55:00.099Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T11:55:00.104Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T11:56:00.035Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T14:26:32.673Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T14:26:33.017Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T14:26:33.912Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T14:26:33.939Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T14:26:34.084Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.850Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.865Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.872Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.879Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T14:34:23.886Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T14:34:23.892Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"0d61268a-dbbe-4f6e-90d3-00b5ced0fdbb","timestamp":"2023-01-02T14:34:23.893Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T14:34:23.894Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T14:34:23.894Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.898Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.902Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.908Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:34:23.912Z"}
+{"label":"Plex Scan","lastScan":1672660500096,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T14:34:23.927Z"}
+{"label":"Plex Scan","lastScan":1672660500103,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T14:34:23.935Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T14:34:23.939Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:35:00.017Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T14:35:00.026Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"6b3c0351-c3e6-4077-bfa8-f33750c69d98","timestamp":"2023-01-02T14:35:00.026Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T14:35:00.027Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T14:35:00.028Z"}
+{"label":"Plex Scan","lastScan":1672670063933,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T14:35:00.049Z"}
+{"label":"Plex Scan","lastScan":1672670063937,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T14:35:00.060Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T14:35:00.066Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:36:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:37:00.062Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:38:00.019Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T14:38:32.358Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T14:38:32.681Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T14:38:33.416Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T14:38:33.433Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T14:38:33.537Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:39:00.036Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:40:00.061Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T14:40:00.090Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T14:40:00.113Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"151cea62-3c78-4cca-8913-9c8590255583","timestamp":"2023-01-02T14:40:00.115Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T14:40:00.116Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T14:40:00.116Z"}
+{"label":"Plex Scan","lastScan":1672670100057,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T14:40:00.162Z"}
+{"errorMessage":"Unable to find TMDB ID","label":"Plex Scan","level":"error","message":"Failed to process Plex media","timestamp":"2023-01-02T14:40:00.171Z","title":"210329 06B Bali 013"}
+{"label":"Plex Scan","lastScan":1672670100064,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T14:40:04.187Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T14:40:04.206Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:41:00.061Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:42:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:43:00.055Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:44:00.075Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T14:45:00.035Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T14:45:00.070Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"1b8e9e51-76d0-4240-b222-9527a23b2589","timestamp":"2023-01-02T14:45:00.073Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T14:45:00.075Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T14:45:00.075Z"}
+{"label":"Plex Scan","lastScan":1672670404174,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T14:45:00.110Z"}
+{"errorMessage":"Unable to find TMDB ID","label":"Plex Scan","level":"error","message":"Failed to process Plex media","timestamp":"2023-01-02T14:45:00.117Z","title":"210329 06B Bali 013"}
+{"label":"Plex Scan","lastScan":1672670404202,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T14:45:04.134Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T14:45:04.153Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:34.988Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.038Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.044Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.048Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"feb2f94b-b311-43e6-94cb-8486872753bc","timestamp":"2023-01-02T15:27:35.048Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.048Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.049Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T15:27:35.058Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.065Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.068Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.073Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.075Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.077Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.083Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"0ec67326-bc6a-4082-bd74-fa03139cc0bf","timestamp":"2023-01-02T15:27:35.084Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.084Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.084Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.088Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.092Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.097Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.099Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.100Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.103Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.105Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"531a821f-1c5b-4b10-8be5-bcfd37d7bd7a","timestamp":"2023-01-02T15:27:35.105Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.105Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.105Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T15:27:35.111Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.114Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.115Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.117Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.118Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.119Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.121Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.123Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.126Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"bc167b91-b26f-4797-a463-1f0bc552b247","timestamp":"2023-01-02T15:27:35.127Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.127Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.127Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.130Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.132Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.132Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.133Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.134Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.135Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.137Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.138Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f157ceb8-0d35-43e4-baba-fcd347d93cec","timestamp":"2023-01-02T15:27:35.138Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.138Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.138Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T15:27:35.142Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.144Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.144Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.146Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.148Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.152Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.152Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.154Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.156Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"a20d8709-58ce-4b26-aaa1-4e29d9671f95","timestamp":"2023-01-02T15:27:35.156Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.156Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.156Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.159Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.164Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.167Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.167Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.168Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.169Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.171Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.172Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"d5efe9b4-faae-4fb1-ab60-deb8cc7979ec","timestamp":"2023-01-02T15:27:35.172Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.172Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.173Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T15:27:35.177Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.180Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.182Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.182Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.183Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.185Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.185Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.186Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T15:27:35.188Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4deff0dc-4dd5-48f0-8fad-f5ab33466040","timestamp":"2023-01-02T15:27:35.188Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T15:27:35.188Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T15:27:35.188Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.190Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T15:27:35.193Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.195Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.197Z"}
+{"label":"Plex Scan","lastScan":1672670704119,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T15:27:35.198Z"}
+{"errorMessage":"Unable to find TMDB ID","label":"Plex Scan","level":"error","message":"Failed to process Plex media","timestamp":"2023-01-02T15:27:35.201Z","title":"210329 06B Bali 013"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T15:27:35.203Z"}
+{"label":"Plex Scan","lastScan":1672670704148,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T15:27:39.217Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T15:27:39.235Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.307Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.322Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.333Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.338Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"098828dc-d45c-4311-8643-3c663f7a6b73","timestamp":"2023-01-02T16:14:08.339Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.339Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.339Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:14:08.350Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.354Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.358Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.362Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.365Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.369Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.375Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"5be271a1-0eed-4fdd-bfbb-d8727a0a965f","timestamp":"2023-01-02T16:14:08.375Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.376Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.376Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.379Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.383Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.391Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.394Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.395Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.396Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.399Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"5f3d9087-280e-4025-be50-0cb7c893fe22","timestamp":"2023-01-02T16:14:08.399Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.399Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.399Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:14:08.403Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.405Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.408Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.409Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.411Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.412Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.413Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.415Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.416Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f06dff9c-14d7-4381-9dfd-fe4c75aeec91","timestamp":"2023-01-02T16:14:08.416Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.416Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.416Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.418Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.419Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.420Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.421Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.421Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.422Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.424Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.425Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f6bbe9f0-ad18-4572-bc6d-b9f85792c306","timestamp":"2023-01-02T16:14:08.425Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.425Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.425Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:14:08.429Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.430Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.431Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.432Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.433Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.434Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.436Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.437Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.438Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"9c60dc22-a1fc-42fa-b255-29c1df04e945","timestamp":"2023-01-02T16:14:08.439Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.439Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.439Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.441Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.441Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.443Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.443Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.444Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.446Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.448Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.449Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"8117ea0a-8706-4c29-88f8-03e7d4df438b","timestamp":"2023-01-02T16:14:08.449Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.449Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.449Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:14:08.451Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.451Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.452Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.452Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.453Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.455Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.456Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.458Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.458Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.460Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"edfcb0e8-f8a4-43bc-8e07-5a3c34d1a892","timestamp":"2023-01-02T16:14:08.460Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.460Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.460Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.462Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.462Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.464Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.465Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.467Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.467Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.469Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:14:08.471Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e270c252-33bd-4a68-afcd-652e61e64ace","timestamp":"2023-01-02T16:14:08.471Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:14:08.471Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:14:08.471Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:14:08.473Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.474Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.475Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.476Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.478Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:14:08.480Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:14:08.480Z"}
+{"label":"Plex Scan","lastScan":1672673259207,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:14:08.482Z"}
+{"label":"Plex Scan","lastScan":1672673259230,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:14:08.486Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:14:08.490Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.631Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:21:17.645Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"54abffcf-76c7-4638-8e47-55bc622b3919","timestamp":"2023-01-02T16:21:17.646Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:21:17.646Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:21:17.646Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.655Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.659Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.662Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.668Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.672Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:21:17.676Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f8b4326a-e0af-4bce-bb8c-86ef544a31ac","timestamp":"2023-01-02T16:21:17.676Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:21:17.676Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:21:17.676Z"}
+{"label":"Plex Scan","lastScan":1672676048484,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:21:17.679Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:21:17.682Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:21:17.686Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-01-02T16:21:17.692Z"}
+{"label":"Plex Scan","lastScan":1672676048484,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:21:17.694Z"}
+{"label":"Plex Scan","lastScan":1672676048489,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:21:17.704Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:21:17.710Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:22:00.052Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:23:00.067Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:24:00.043Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:25:00.039Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:25:00.052Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"36c50932-33e6-469c-848f-9ce32cee7837","timestamp":"2023-01-02T16:25:00.053Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:25:00.054Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:25:00.054Z"}
+{"label":"Plex Scan","lastScan":1672676477699,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:25:00.104Z"}
+{"label":"Plex Scan","lastScan":1672676477708,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:25:00.117Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:25:00.123Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:26:00.044Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:27:00.034Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:28:00.033Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T16:28:13.899Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T16:28:14.145Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T16:28:14.714Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T16:28:14.730Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T16:28:14.805Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T16:31:55.452Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T16:31:55.778Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T16:31:56.869Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T16:31:56.894Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T16:31:57.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:32:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:33:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:34:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:35:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:35:00.046Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"9432d584-3da4-4c02-8d5f-e7b637a918bd","timestamp":"2023-01-02T16:35:00.050Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:35:00.051Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:35:00.051Z"}
+{"label":"Plex Scan","lastScan":1672676700112,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:35:00.098Z"}
+{"label":"Plex Scan","lastScan":1672676700122,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:35:00.106Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:35:00.111Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:36:00.066Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:37:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:38:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:39:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:40:00.022Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:40:00.045Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"981c24be-840f-4f80-9f26-e02f0fbd269e","timestamp":"2023-01-02T16:40:00.048Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:40:00.050Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:40:00.052Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:40:00.066Z"}
+{"label":"Plex Scan","lastScan":1672677300103,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:40:00.087Z"}
+{"label":"Plex Scan","lastScan":1672677300109,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:40:00.095Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:40:00.100Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:41:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:42:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:43:00.034Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:44:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:45:00.021Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:45:00.039Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"cd9a75fc-d115-45f7-a71f-6654f4022069","timestamp":"2023-01-02T16:45:00.041Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:45:00.043Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:45:00.043Z"}
+{"label":"Plex Scan","lastScan":1672677600092,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:45:00.081Z"}
+{"label":"Plex Scan","lastScan":1672677600098,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:45:00.092Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:45:00.098Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:46:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:47:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:48:00.038Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:49:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:50:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T16:50:00.022Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"ffdce64d-6421-4e71-aa43-0d2cc37da11b","timestamp":"2023-01-02T16:50:00.023Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T16:50:00.023Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T16:50:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T16:50:00.039Z"}
+{"label":"Plex Scan","lastScan":1672677900088,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T16:50:00.056Z"}
+{"label":"Plex Scan","lastScan":1672677900097,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T16:50:00.065Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T16:50:00.070Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:51:00.054Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:52:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:53:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:54:00.041Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T16:55:08.951Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T16:55:10.148Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T16:55:12.132Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T16:55:12.315Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T16:55:12.615Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:56:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T16:57:00.025Z"}
+{"level":"info","message":"Commit Tag: v1.31.0","timestamp":"2023-01-02T17:01:08.087Z"}
+{"level":"info","message":"Starting Overseerr version 1.31.0","timestamp":"2023-01-02T17:01:08.661Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-01-02T17:01:10.059Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-01-02T17:01:10.080Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-01-02T17:01:10.280Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:02:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:03:00.036Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:04:00.045Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:05:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T17:05:00.054Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4b0149a1-cb29-424a-a672-8928dc931ea5","timestamp":"2023-01-02T17:05:00.062Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T17:05:00.064Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T17:05:00.064Z"}
+{"label":"Plex Scan","lastScan":1672678200062,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T17:05:00.116Z"}
+{"label":"Plex Scan","lastScan":1672678200069,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T17:05:00.125Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T17:05:00.130Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:06:00.037Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:07:00.042Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:08:00.046Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:09:00.041Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:10:00.038Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T17:10:00.068Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"8915b26f-f86e-415a-b56c-0eec0b92a70e","timestamp":"2023-01-02T17:10:00.070Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T17:10:00.070Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T17:10:00.070Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-01-02T17:10:00.083Z"}
+{"label":"Plex Scan","lastScan":1672679100123,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T17:10:00.105Z"}
+{"label":"Plex Scan","lastScan":1672679100129,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T17:10:00.117Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T17:10:00.123Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:11:00.050Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:12:00.054Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:13:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:14:00.037Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:15:51.766Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-01-02T17:15:51.794Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"7bed2e62-e92b-4f01-8336-44e4b3f346e5","timestamp":"2023-01-02T17:15:51.797Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Radarr server was detected. 4K movie detection is now enabled","timestamp":"2023-01-02T17:15:51.799Z"}
+{"label":"Plex Scan","level":"info","message":"At least one 4K Sonarr server was detected. 4K series detection is now enabled","timestamp":"2023-01-02T17:15:51.800Z"}
+{"label":"Plex Scan","lastScan":1672679400112,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-01-02T17:15:51.840Z"}
+{"label":"Plex Scan","lastScan":1672679400121,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-01-02T17:15:51.868Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-01-02T17:15:51.875Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:16:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-01-02T17:17:00.036Z"}
